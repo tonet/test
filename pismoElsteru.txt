@@ -1,0 +1,34 @@
+TO-NET Ltd. Novi Sad is a Serbian company that operates in the field of infrastructure information systems
+ and remote metering, monitoring and control sistems.
+Most of our clients are companies involved in gas, water or heat distribution.
+
+We have developed INIS-SCADA system, the AMI system that incudes:
+
+-	Infrastructure information system
+
+-	Graphical SCADA software for monitoring and controlling distribution process
+
+-	Telemetric/control embedded devices - INIT-50 and INIT-10
+
+We have successfully implemented this system in natural gas distribution sistem, 
+where points of interest are metering regulating stations.
+
+We are very interested in cooperation with Elster-Instromet and we would like to become distributors
+for Your products and solutions. We are also willing to train two of our engineers for 
+Elster-Instromet products.
+
+At this time we are especially interested in following products:
+
+-	Volume correctors EK220/EK230
+
+-	Rotary gas meters RVG Gxxx
+
+-	Solenoid valves for gas (Elster Kromschröder)
+
+We have studied Volume correctors EK220 datasheets and read the line:
+
+"All protocol information is disclosed and is available on request
+ for the development of own applications and call-up systems."
+
+Could You please provide us with EK220/EK230 communication protocol information (RS232 or RS485), so we
+can establish communication between our Init-50 and volume corrector EK220/EK230.
